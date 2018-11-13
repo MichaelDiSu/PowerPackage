@@ -1,0 +1,10 @@
+Package: PowerPackage
+Title: SSAI R WorkShop Exercise14
+Version: 0.0.0.9000
+Authors@R: person("Michael", "Su", email = "michaelsuaustralia@hotmail.com", role = c("aut", "cre"))
+Description: squre,cube and power calculation
+Depends: R (>= 3.4.4)
+License: IDK
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
